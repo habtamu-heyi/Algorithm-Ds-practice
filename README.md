@@ -1,10 +1,7 @@
 # 🚀 Advanced Data Structures & Algorithms in Python
 
-Welcome to one of the **most complete, efficient, and cleanly coded Python repositories** for advanced data structures and algorithmic problems. This is a curated collection of real-world relevant, interview-ready, and system-level algorithm implementations — each designed with **clean code**, **efficiency**, and **clarity** in mind.
+I have been coding and Practicing one of the **most complete, efficient, and cleanly coded Python repositories** for advanced data structures and algorithmic problems for more than 6+ years.  This are a curated collection of real-world relevant, interview-ready, and system-level algorithm implementations — each designed with **clean code**, **efficiency**, and **clarity** in mind.
 
-> 🧠 Perfect for software engineering interviews, competitive programming, or academic foundations.
-
----
 
 ## 📂 Project Structure
 ├── sorting
